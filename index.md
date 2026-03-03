@@ -1,5 +1,3 @@
-# Attendance
-
 **Debjoy Howlader**<br>
 Emp. Code - OASP02395<br>
 Biometric Id - OAS02828
