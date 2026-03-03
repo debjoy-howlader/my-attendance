@@ -1,8 +1,10 @@
-```
-Debjoy Howlader
-Emp Code - OASP02395
-Biometric Id - OAS02828
-```
+# Attendance
+
+> Debjoy Howlader
+
+> Emp Code - OASP02395
+
+> Biometric Id - OAS02828
 
 **2026**
 
@@ -16,10 +18,13 @@ Biometric Id - OAS02828
 | 22<br>_ | 23<br>_ | 24<br>_ | 25<br>_ | 26<br>_ | 27<br>_ | 28<br>_ |
 | 29<br>_ | 30<br>_ | 31<br>_ |  |  |  |  |
 
-**Legends**
-D  Day Shift
-N  Night Shift
-A  Absent
+> **Legends**
+
+> D  Day Shift
+
+> N  Night Shift
+
+> A  Absent
 
 
 [> Past Months' Records](./past.md)
