@@ -15,8 +15,8 @@
 
 | Su | Mo | Tu | We | Th | Fr | Sa |
 |--|--|--|--|--|--|--|
-|         |         |         |         |  1<br>  |  2<br>  |  3<br>  |
-|  4<br>  |  5<br>  |  6<br>  |  7<br>  |  8<br>  |  9<br>  | 10<br>  |
-| 11<br>  | 12<br>  | 13<br>  | 14<br>  | 15<br>D | 16<br>D | 17<br>D |
+|         |         |         |         |  1<br>. |  2<br>. |  3<br>. |
+|  4<br>. |  5<br>. |  6<br>. |  7<br>. |  8<br>. |  9<br>. | 10<br>. |
+| 11<br>. | 12<br>. | 13<br>. | 14<br>. | 15<br>D | 16<br>D | 17<br>D |
 | 18<br>D | 19<br>D | 20<br>D | 21<br>D | 22<br>D | 23<br>D | 24<br>D |
 | 25<br>D | 26<br>D | 27<br>D | 28<br>D | 29<br>D | 30<br>D | 31<br>D |
