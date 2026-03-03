@@ -1,8 +1,8 @@
-## Performed Duty
+[< Back]{./index.md}
 
 2026
 
-## March
+## February
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |--|--|--|--|--|--|--|
@@ -11,10 +11,3 @@
 | 15<br>_ | 16<br>_ | 17<br>_ | 18<br>_ | 19<br>_ | 20<br>_ | 21<br>_ |
 | 22<br>_ | 23<br>_ | 24<br>_ | 25<br>_ | 26<br>_ | 27<br>_ | 28<br>_ |
 | 29<br>_ | 30<br>_ | 31<br>_ |  |  |  |  |
-
-> **Legends**
-> D: Day Shift
-> N: Night Shift
-> A: Absent
-
-[Past Months' Records]{./past.md}
