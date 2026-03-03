@@ -1,10 +1,12 @@
 # Attendance
+
 > **Legends**
 > D -> Day Shift
 > N -> Night Shift
 > Lv -> Leave
-> 
+
 ## March '26
+
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |--|--|--|--|--|--|--|
 | 1<br>**N** | 2<br>**N** | 3<br>**N** | 4<br>_ | 5<br>_ | 6<br>_ | 7<br>_ |
