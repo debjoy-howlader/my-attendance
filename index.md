@@ -17,4 +17,4 @@
 > N: Night Shift
 > A: Absent
 
-[Past Months' Records]{./past.md}
+[> Past Months' Records](./past.md)
