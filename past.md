@@ -2,7 +2,7 @@
 
 **2026**
 
-## FEBRUARY
+## February
 
 | Su | Mo | Tu | We | Th | Fr | Sa |
 |--|--|--|--|--|--|--|
@@ -11,7 +11,7 @@
 | 15<br>N | 16<br>N | 17<br>N | 18<br>N | 19<br>D | 20<br>D | 21<br>D |
 | 22<br>D | 23<br>A | 24<br>A | 25<br>A | 26<br>A | 27<br>A | 28<br>N |
 
-## JANUARY
+## January
 
 | Su | Mo | Tu | We | Th | Fr | Sa |
 |--|--|--|--|--|--|--|
