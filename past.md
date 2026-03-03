@@ -1,6 +1,6 @@
 [< Back](./index.md)
 
-2026
+**2026**
 
 ## February
 
