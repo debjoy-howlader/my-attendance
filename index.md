@@ -1,8 +1,9 @@
 # Attendance
 
-> **Debjoy Howlader**\
-> Emp Code - OASP02395\
-> Biometric Id - OAS02828
+**Debjoy Howlader**
+Emp Code - OASP02395
+Biometric Id - OAS02828
+<hr>
 
 **2026**
 
@@ -10,16 +11,16 @@
 
 | Su | Mo | Tu | We | Th | Fr | Sa |
 |--|--|--|--|--|--|--|
-|  1<br>N |  2<br>N |  3<br>N |  4<br>. |  5<br>. |  6<br>. |  7<br>. |
-|  8<br>. |  9<br>. | 10<br>. | 11<br>. | 12<br>. | 13<br>. | 14<br>. |
-| 15<br>. | 16<br>. | 17<br>. | 18<br>. | 19<br>. | 20<br>. | 21<br>. |
-| 22<br>. | 23<br>. | 24<br>. | 25<br>. | 26<br>. | 27<br>. | 28<br>. |
-| 29<br>. | 30<br>. | 31<br>. |         |         |         |         |
+|  1<br>**N** |  2<br>**N** |  3<br>**N** |  4<br>_     |  5<br>_     |  6<br>_     |  7<br>_     |
+|  8<br>_     |  9<br>_     | 10<br>_     | 11<br>_     | 12<br>_     | 13<br>_     | 14<br>_     |
+| 15<br>_     | 16<br>_     | 17<br>_     | 18<br>_     | 19<br>_     | 20<br>_     | 21<br>_     |
+| 22<br>_     | 23<br>_     | 24<br>_     | 25<br>_     | 26<br>_     | 27<br>_     | 28<br>_     |
+| 29<br>_     | 30<br>_     | 31<br>_     |             |             |             |             |
 
 > **D** - Day Shift\
 > **N** - Night Shift\
 > **H** - Half Day\
 > **A** - Absent
-
+<hr>
 
 [> Past Months' Records](./past.md)
