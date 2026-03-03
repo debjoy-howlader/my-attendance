@@ -4,7 +4,7 @@
 
 ## February
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| Su | Mo | Tu | We | Th | Fr | Sa |
 |--|--|--|--|--|--|--|
 | 1<br>**N** | 2<br>**N** | 3<br>**N** | 4<br>_ | 5<br>_ | 6<br>_ | 7<br>_ |
 | 8<br>_ | 9<br>_ | 10<br>_ | 11<br>_ | 12<br>_ | 13<br>_ | 14<br>_ |
