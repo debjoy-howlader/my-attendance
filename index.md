@@ -1,7 +1,7 @@
 # Attendance
 
 **Debjoy Howlader**<br>
-Emp Code - OASP02395<br>
+Emp. Code - OASP02395<br>
 Biometric Id - OAS02828
 <hr>
 
@@ -21,6 +21,5 @@ Biometric Id - OAS02828
 > **N** - Night Shift\
 > **H** - Half Day\
 > **A** - Absent
-<hr>
 
 [> Past Months' Records](./past.md)
